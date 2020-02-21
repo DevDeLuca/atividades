@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlists>
+    <playlist nome="As 5 melhores">
+        <musica genero="sertanejo" duracao="3:03">
+            <nome>Liberdade Provisoria</nome>
+            <artista>Henrique e Juliano</artista>
+        </musica>
+        <musica genero="forro" duracao="2:03">
+            <nome>Casal Raiz</nome>
+            <artista>Xande Avião</artista>
+        </musica>
+        <musica genero="pagode" duracao="3:40">
+            <nome>Ponto Fraco</nome>
+            <artista>Thiaguinho</artista>
+        </musica>
+        <musica genero="funk" duracao="2:50">
+            <nome>Ela é do tipo</nome>
+            <artista>Kevin o Cris</artista>
+        </musica>
+        <musica genero="Trap" duracao="3:30">
+            <nome>God's Plan</nome>
+            <artista>Drake</artista>
+        </musica>
+    </playlist>
+</playlists>

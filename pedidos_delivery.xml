@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<delivery>
+    <pedidos data="21/02/2020">
+        <pedido cod="001">
+            <cliente>Chiquim Ramos</cliente>
+            <endereco cep="20300-24">
+                <rua>São Jose</rua>
+                <bairro>Cohab</bairro>
+                <numero>2424</numero>
+            </endereco>
+            <itens>
+                <item quantidade="4" preco="20,00">Coxinha</item>
+                <item quantidade="1" preco="5,00">Coca-Cola</item>
+            </itens>
+            <entregador>Jean Vitar</entregador>
+        </pedido>
+        <pedido cod="002">
+            <cliente>Natã Antunes</cliente>
+            <endereco cep="233632-333">
+                <rua>São Judas</rua>
+                <bairro>Mutirao</bairro>
+                <numero>888</numero>
+            </endereco>
+            <itens>
+                <item quantidade="2" preco="8,00">Pasteis</item>
+                <item quantidade="3" preco="15,00">Rocomboli</item>
+                <item quantidade="1" preco="6,00">Suco</item>
+            </itens>
+            <entregador>Gui Lima</entregador>
+        </pedido>
+    </pedidos>
+</delivery>

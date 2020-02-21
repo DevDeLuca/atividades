@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <livros categoria="infantil">
+        <livro codigo="1234">
+            <titulo>Pinóquio</titulo>
+            <autor>Carlo Collodi</autor>
+            <ano>2007</ano>
+        </livro>
+        <livro codigo="3673">
+            <titulo>O pequeno polegar</titulo>
+            <autor>Charles Perrault</autor>
+            <ano>2015</ano>
+        </livro>
+    </livros>
+    <livros categoria="religiosos">
+        <livro codigo="7878">
+            <titulo>Catecismo Romano</titulo>
+            <autor>Papa São Pio V</autor>
+            <ano>1950</ano>
+        </livro>
+        <livro codigo="4004">
+            <titulo>Novena do Natal</titulo>
+            <autor>Pe. Francisco Faus</autor>
+            <ano>2019</ano>
+        </livro>
+    </livros>
+</biblioteca>
